@@ -210,7 +210,7 @@ const TeamInfo23 = {
     },
     {
       name: "Anurag Pathank",
-      post: "Creattive Head",
+      post: "Creative Head",
       image: Anurag,
       facebookLink: "https://www.facebook.com/anurag.pathak.9026040",
       instagramLink: "http://instagram.com/anu_rag0016",
